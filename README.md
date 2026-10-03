@@ -1,17 +1,31 @@
-# pertemuan_2
+<div align="center">
 
-A new Flutter project.
+# 📱 Pertemuan 2
 
-## Getting Started
+**Tugas Mata Kuliah Pemrograman Mobile**
 
-This project is a starting point for a Flutter application.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-A few resources to get you started if this is your first Flutter project:
+</div>
+
+---
+
+## 👤 Identitas
+
+| | |
+|---|---|
+| **Nama** | Nadhif Shoeema Goldist |
+| **NIM** | 20240801085 |
+| **Mata Kuliah** | Pemrograman Mobile |
+
+## 📖 Tentang
+
+Proyek Flutter untuk setiap pertemuan  pada mata kuliah Pemrograman Mobile.
+
+## 📚 Referensi
 
 - [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
 - [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Dokumentasi Flutter](https://docs.flutter.dev/)
